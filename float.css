@@ -18,7 +18,7 @@ div > p {
   margin: none;
 }
   main div {
-  border: 1px solid red;
+  border: 1px solid black;
   background-color: grey;
   /* padding: 15px; */
 }
@@ -34,12 +34,10 @@ main {
   #a {
     width: 100%;
     height: 75px;
-    background-color: fuchsia
   }
   #b {
     width: 100%;
     height: 150px;
-    background: dodgerblue
   }
   #c {
     width: 100%;
